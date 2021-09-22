@@ -75,3 +75,4 @@ del "%userprofile%\syslog.txt"
 del "%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\startup\clickme.bat"
 rmdir /s /q "%userprofile%\AppData\syswindows"
 cls
+exit
